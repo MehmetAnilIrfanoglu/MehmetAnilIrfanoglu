@@ -18,9 +18,7 @@
 
 - ⚡ Fun fact **I like Turtles.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetanilirfanoglu&show_icons=true&locale=en&layout=compact" alt="mehmetanilirfanoglu" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
